@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20549
   title: སྲིད་པའི་རྩེད་རིགས་མཛེས་སྡུག་གར་གྱི་སྟངས་སྟབས།
-  volume: ''
+  volume:
+    e48c504300cf453d9667cd0c014efe30:
+      image_group_id: I8LS20551
+      title: Volume 1 of srid pa'i rtsed rigs mdzes sdug gar gyi stangs stabs/
+      volume_number: 1
+      total_pages: 170
   author: ''
+ebook_metadata:
+  title: སྲིད་པའི་རྩེད་རིགས་མཛེས་སྡུག་གར་གྱི་སྟངས་སྟབས།
+  author: ''
+  sku: P007904
+  cover: cover.jpg
+  layers:
+  - pagination
